@@ -28,20 +28,20 @@
     "orderDate": "30.09.2026",
     "deliveryDate": "05.10.2026",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Hafenstraße 45",
+      "postal_code": "79576",
+      "city": "Weil am Rhein",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     },
     "delivery": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
-      "lat": "",
-      "lng": ""
+      "street": "Juns 592",
+      "postal_code": "6293",
+      "city": "Tux",
+      "country": "Österreich",
+      "lat": "47.140970223505704",
+      "lng": "11.715404797214095"
     }
   }
 }
